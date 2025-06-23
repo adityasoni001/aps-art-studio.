@@ -1,2 +1,133 @@
 # aps-art-studio.
 Welcome to my channel
+<!DOCTYPE html><html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>APS Art Studio | Official Website</title>
+  <link rel="stylesheet" href="style.css" />
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      font-family: 'Roboto', sans-serif;
+    }body {
+  background: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+  animation: fadeIn 1s ease-in;
+}
+
+header {
+  background: linear-gradient(to right, #5a67d8, #7f9cf5);
+  color: #fff;
+  padding: 40px 20px;
+  text-align: center;
+  animation: slideDown 1s ease-out;
+}
+
+header h1 {
+  font-size: 3em;
+}
+
+header p {
+  font-size: 1.2em;
+}
+
+section {
+  padding: 40px 20px;
+  max-width: 1000px;
+  margin: auto;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 20px;
+  border-left: 5px solid #5a67d8;
+  padding-left: 15px;
+}
+
+ul li {
+  margin: 10px 0;
+  padding-left: 10px;
+}
+
+footer {
+  background: #2d3748;
+  color: #ccc;
+  text-align: center;
+  padding: 20px;
+}
+
+a {
+  color: #5a67d8;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+@keyframes fadeIn {
+  from { opacity: 0; }
+  to { opacity: 1; }
+}
+
+@keyframes slideDown {
+  from { transform: translateY(-100%); }
+  to { transform: translateY(0); }
+}
+
+  </style>
+</head>
+<body>
+  <header>
+    <h1>APS Art Studio</h1>
+    <p>Unleashing Creativity — One Stroke at a Time</p>
+  </header>  <section class="about">
+    <h2>About APS Art Studio</h2>
+    <p>
+      Welcome to <strong>APS Art Studio</strong> — your digital destination for exploring the endless possibilities of artistic expression. Our mission is to bridge traditional art with modern innovation, making the process of art accessible, inspiring, and truly immersive.
+    </p>
+    <p>
+      Whether you're a beginner looking to learn or a passionate art lover seeking inspiration, our YouTube channel is the perfect place to explore sketching, painting, clay modeling, and much more.
+    </p>
+  </section>  <section class="vision">
+    <h2>Our Vision</h2>
+    <p>
+      APS Art Studio envisions a world where creativity is not limited by tools, age, or location. We believe in the transformative power of visual art to heal, inspire, educate, and connect people across boundaries. Every artwork we create carries a message, a story, and a purpose.
+    </p>
+  </section>  <section class="content">
+    <h2>What We Offer</h2>
+    <ul>
+      <li>🎨 Time-lapse videos of watercolor, oil, and acrylic painting</li>
+      <li>🖋️ Charcoal & ink sketch tutorials</li>
+      <li>🧱 Clay modeling and 3D sculpture</li>
+      <li>📖 Beginner to advanced drawing tutorials</li>
+      <li>🌌 Creative concept art and visual storytelling</li>
+      <li>🎥 Behind-the-scenes process and artist vlogs</li>
+    </ul>
+  </section>  <section class="owner">
+    <h2>Meet the Artist: Aditya Soni</h2>
+    <p>
+      <strong>Aditya Soni</strong> is the passionate creator and founder of APS Art Studio. With a lifelong love for art and an eye for detail, Aditya brings a unique style that blends traditional Indian heritage with contemporary design. His art journey began at a young age, and through years of practice and dedication, he has inspired many budding artists through tutorials and videos.
+    </p>
+    <p>
+      From intricate pencil portraits to vibrant acrylic masterpieces, Aditya continues to push the boundaries of creativity and believes that every individual holds the power to create something meaningful.
+    </p>
+  </section>  <section class="community">
+    <h2>Join Our Artistic Family</h2>
+    <p>
+      Become a part of our ever-growing artistic family by subscribing to our YouTube channel and following us on social media. Share your artworks, get feedback, and stay connected with artists from around the world.
+    </p>
+    <p>
+      👉 <a href="https://youtube.com/@apsartstudio7982" target="_blank">Subscribe on YouTube</a>
+    </p>
+  </section>  <footer>
+    <p>© 2025 APS Art Studio | All Rights Reserved<br>
+    Designed & Maintained by <strong>Aditya Soni</strong></p>
+  </footer>
+</body>
+</html>
